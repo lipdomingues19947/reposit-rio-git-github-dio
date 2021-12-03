@@ -1,2 +1,2 @@
-# reposit-rio-git-github-dio
+# reposit  git/github  dio
 repositório da dio sobre git/github desafio.
